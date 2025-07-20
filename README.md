@@ -11,3 +11,6 @@ This project aims to analyze the spatial patterns of the Human Development Index
 
 ## Project 4: [Cholesterol Analysis and Modelling](https://github.com/adhkaraa/cholesterol-analysis-and-modelling)  
 This project focuses on building a predictive model to identify which health factors most influence total cholesterol levels. 
+
+## Project 5: [Forecasting Global CO2 Emissions](https://github.com/adhkaraa/forecasting-co2-emision)  
+predicts global CO2 emissions from energy combustion and industrial processes using time series methods (ARIMA, DES, Trend Projection).
