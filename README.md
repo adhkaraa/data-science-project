@@ -20,3 +20,6 @@ This project builds a binary image classification model to distinguish between i
 
 ## [Comparative Analysis of Machine Learning Models for Crop Yield Prediction](https://github.com/adhkaraa/comparative_crop_yield_models)
 This project explores various machine learning models to predict crop yield using simulated agricultural field data. By comparing Decision Tree, Random Forest, and XGBoost, aim to identify the most accurate and interpretable model to support agricultural decision-making and yield optimization.
+
+## [Retail Transaction Analysis – RFM & Affinity Insights](https://github.com/adhkaraa/RFM-and-Affinity-Analysis)
+This project analyzes retail transaction data using RFM (Recency, Frequency, Monetary) and product affinity analysis to better understand customer behavior, product dynamics, and sales trends.
