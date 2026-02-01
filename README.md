@@ -23,3 +23,6 @@ This project explores various machine learning models to predict crop yield usin
 
 ## [Retail Transaction Analysis – RFM & Affinity Insights](https://github.com/adhkaraa/RFM-and-Affinity-Analysis)
 This project analyzes retail transaction data using RFM (Recency, Frequency, Monetary) and product affinity analysis to better understand customer behavior, product dynamics, and sales trends.
+
+## [Invoice Data Processing with n8n](https://github.com/adhkaraa/Invoice-Processing-with-n8n)
+Invoice Data Processing with n8n is an automated pipeline that detects invoice PDFs or images in Google Drive, extracts text using OCR, leverages an LLM to convert unstructured content into structured data (vendor, date, totals, etc.), stores the results in Google Sheets, and archives processed files—eliminating manual, error-prone data entry and improving scalability.
